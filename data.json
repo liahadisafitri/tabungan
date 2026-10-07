@@ -4,7 +4,7 @@
  "n2": "Lia",
  "target": 0,
  "salary": 0,
- "startMonth": 9,
+ "startMonth": 6,
  "startYear": 2026,
  "rows": [
   [
@@ -297,5 +297,5 @@
   ]
  ],
  "costs": [],
- "updated": 1791364902434
+ "updated": 1791364954299
 }
