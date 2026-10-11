@@ -2,7 +2,7 @@
  "name": "Tabungan Nikah",
  "n1": "Riko",
  "n2": "Lia",
- "target": 0,
+ "target": 25000000,
  "salary": 0,
  "startYear": 2026,
  "rows": [
@@ -368,6 +368,6 @@
   ]
  ],
  "costs": [],
- "updated": 1791706524641,
+ "updated": 1791706574369,
  "ver": 2
 }
